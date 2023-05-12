@@ -4,7 +4,7 @@ const scrapeData = async (tabURL) => {
   const response = await fetch(url, {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "",
+      "X-RapidAPI-Key": "REDACTED API KEY",
       "X-RapidAPI-Host": "tldr-text-analysis.p.rapidapi.com",
     },
   });
