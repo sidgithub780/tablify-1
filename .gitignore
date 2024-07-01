@@ -51,3 +51,5 @@ jspm_packages
 _optimize
 .vscode
 server/env
+
+expressions.txt
